@@ -24,7 +24,6 @@ namespace SeleniumCSharpProject
 
             CustomControl.ComboBox("AllMealsCombo", "Almond");
 
-            Console.WriteLine("Test1");
             Assert.Pass();
         }
     }
